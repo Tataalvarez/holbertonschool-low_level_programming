@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - print a phrase
+ *
+ *Return: Always 0 (Success)
+ */
 
 int main(void)
 {
